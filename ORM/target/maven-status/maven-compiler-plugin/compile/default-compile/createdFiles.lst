@@ -1,0 +1,10 @@
+Main.class
+trabajopractico\orm\Modelo\Empleado.class
+trabajopractico\orm\Modelo\Especialidad.class
+trabajopractico\orm\Modelo\Turno.class
+trabajopractico\orm\Modelo\Paciente.class
+trabajopractico\orm\Modelo\Persona.class
+trabajopractico\orm\Modelo\Domicilio.class
+trabajopractico\orm\Modelo\DetalleHistoriaClinica.class
+trabajopractico\orm\Modelo\Medico.class
+trabajopractico\orm\Modelo\HistoriaClinica.class
